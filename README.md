@@ -5,7 +5,7 @@
 
 > 1.resolve 配置，省略后缀名 
 
-> 2. SplitChunksPlugin 
+> 2.SplitChunksPlugin 
 
 > 3.dll 第一次打包第三方模块，分析，之后打包不做分析，提高打包速度 
 
